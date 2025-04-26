@@ -14,7 +14,7 @@ This repository documents my solutions to various LeetCode, HackerRank, and othe
 
 ## 📂 Folder Structure
 
-```plaintext
+```
 dsa-practice/
  ├── easy/
  │    ├── arrays/
@@ -27,8 +27,8 @@ dsa-practice/
  │    └── problem_template.txt
  └── README.md
 
- ---
-
+ 
+```
 ## 🎯 Goals
 Solve and document problems consistently.
 

@@ -26,8 +26,10 @@ dsa-practice/
  ├── templates/
  │    └── problem_template.txt
  └── README.md
- 
-🎯 Goals
+
+ ---
+
+## 🎯 Goals
 Solve and document problems consistently.
 
 Revise by problem type easily (Arrays, Strings, Trees, etc.).
@@ -36,7 +38,9 @@ Practice optimized and alternate solutions.
 
 Maintain an active GitHub profile with daily commits.
 
-🛠 Topics Covered
+---
+
+## 🛠 Topics Covered
 Arrays
 
 Strings
@@ -61,7 +65,9 @@ Stack, Queue, Heap
 
 (More topics will be added as I progress!)
 
-📅 Progress Tracker
+---
+
+## 📅 Progress Tracker
 
 Difficulty	Problems Solved
 Easy	0
@@ -69,19 +75,25 @@ Medium	0
 Hard	0
 (Updating regularly!)
 
-📢 Notes
+---
+
+## 📢 Notes
 Solutions are written in Python (and Java later if needed).
 
 Each solution includes at least one alternate approach where possible.
 
 This repository helps me track growth and prepare for coding interviews.
 
-🤝 Contributions
+---
+
+## 🤝 Contributions
 This repo is primarily for my personal learning and documentation.
 However, feel free to browse and learn!
 Suggestions for better solutions are always welcome! 🌟
 
-📬 Connect with Me
+---
+
+## 📬 Connect with Me
 LinkedIn - https://www.linkedin.com/in/sarvesh2411
 
 Email- sarvesh.sahasrabudhe@gmail.com

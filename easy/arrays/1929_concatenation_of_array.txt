@@ -1,0 +1,57 @@
+Problem Number: 1929 - Concatenation of Array
+
+Problem Link: https://leetcode.com/problems/concatenation-of-array/
+
+Problem Type: Array
+
+--------------------------------------------
+
+My Approach:
+- The idea is to concatenate the list with itself.
+- Multiplying the list by 2 (2*nums) creates two copies of the original list back-to-back.
+- Return the resulting list.
+
+Code:
+--------------------------------------------
+class Solution:
+    def getConcatenation(self, nums: List[int]) -> List[int]:
+        ans = 2*nums
+        return ans
+--------------------------------------------
+
+Time and Space Complexity:
+- Time Complexity: O(n)
+- Space Complexity: O(n)
+
+--------------------------------------------
+
+Alternate Approach 1:
+- Manually create a new list by iterating through nums twice.
+
+Alternate Approach 1 Code:
+--------------------------------------------
+class Solution:
+    def getConcatenation(self, nums: List[int]) -> List[int]:
+        ans = []
+        for _ in range(2):
+            for num in nums:
+                ans.append(num)
+        return ans
+--------------------------------------------
+- Time Complexity: O(n)
+- Space Complexity: O(n)
+
+--------------------------------------------
+
+Alternate Approach 2:
+- Use list addition to concatenate two lists: nums + nums
+
+Alternate Approach 2 Code:
+--------------------------------------------
+class Solution:
+    def getConcatenation(self, nums: List[int]) -> List[int]:
+        return nums + nums
+--------------------------------------------
+- Time Complexity: O(n)
+- Space Complexity: O(n)
+

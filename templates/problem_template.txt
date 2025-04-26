@@ -1,0 +1,45 @@
+Problem Number: {Problem Number} - {Problem Title}
+
+Problem Link: https://leetcode.com/problems/{problem-slug}/
+
+Problem Type: {Array / Linked List / Dynamic Programming / Tree / Graph / String / Hash Table / etc.}
+
+--------------------------------------------
+
+My Approach:
+- {Brief explanation of your approach in 3–5 lines}
+- {Explain key idea, data structures used, optimizations if any}
+
+Code:
+--------------------------------------------
+{Your code here}
+--------------------------------------------
+
+Time and Space Complexity:
+- Time Complexity: O(?)
+- Space Complexity: O(?)
+
+--------------------------------------------
+
+Alternate Approach 1:
+- {Short 1-2 line description of alternate method}
+- {How it differs / when it’s better}
+
+Alternate Approach 1 Code:
+--------------------------------------------
+{Alternate solution code here}
+--------------------------------------------
+- Time Complexity: O(?)
+- Space Complexity: O(?)
+
+--------------------------------------------
+
+Alternate Approach 2 (Optional):
+- {Short 1-2 line description of another alternate method}
+
+Alternate Approach 2 Code:
+--------------------------------------------
+{Another alternate solution code here}
+--------------------------------------------
+- Time Complexity: O(?)
+- Space Complexity: O(?)

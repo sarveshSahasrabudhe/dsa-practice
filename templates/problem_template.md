@@ -2,7 +2,7 @@
 
 🔗 [Problem Link](https://leetcode.com/problems/{problem-slug}/)
 
-🏷️ **Problem Type:** {Array / Linked List / Dynamic Programming / Tree / Graph / String / Hash Table / etc.}
+🏷️ **Problem Type:** {Array / Linked List / Dynamic Programming / Tree / Graph / String / Hash Table / etc.}**
 
 ---
 
@@ -13,41 +13,49 @@
 ---
 
 ## 🧩 Code
-```python
+python
+Copy
+Edit
 {your code here}
-⏳ Time and Space Complexity
-Time Complexity: O(?)
-
-Space Complexity: O(?)
-
-🔀 Alternate Approach 1
-{Short 1-2 line description of alternate method}
-
-{How it differs or when it's better}
-
-Code
-python
-Copy
-Edit
-{alternate code here}
-Time Complexity: O(?)
-
-Space Complexity: O(?)
-
-🔀 Alternate Approach 2 (Optional)
-{Short 1-2 line description of another alternate method}
-
-Code
-python
-Copy
-Edit
-{another alternate code here}
-Time Complexity: O(?)
-
-Space Complexity: O(?)
-
 yaml
 Copy
 Edit
 
+---
 
+## ⏳ Time and Space Complexity
+- **Time Complexity:** O(?)
+- **Space Complexity:** O(?)
+
+---
+
+## 🔀 Alternate Approach 1
+- {Short 1-2 line description of alternate method}
+- {How it differs or when it's better}
+
+### Code
+python
+Copy
+Edit
+{alternate code here}
+yaml
+Copy
+Edit
+- **Time Complexity:** O(?)
+- **Space Complexity:** O(?)
+
+---
+
+## 🔀 Alternate Approach 2 (Optional)
+- {Short 1-2 line description of another alternate method}
+
+### Code
+python
+Copy
+Edit
+{another alternate code here}
+markdown
+Copy
+Edit
+- **Time Complexity:** O(?)
+- **Space Complexity:** O(?)

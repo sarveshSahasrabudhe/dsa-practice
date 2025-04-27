@@ -1,61 +1,53 @@
+"""
 # Problem {Problem Number}: {Problem Title}
 
 🔗 [Problem Link](https://leetcode.com/problems/{problem-slug}/)
 
-🏷️ **Problem Type:** {Array / Linked List / Dynamic Programming / Tree / Graph / String / Hash Table / etc.}**
+🏷️ **Problem Type:** {Array / Linked List / Dynamic Programming / Tree / Graph / String / Hash Table / etc.}
 
 ---
 
 ## ✨ My Approach
-- {Brief explanation of your own approach in 3–5 lines}
-- {Explain key idea, data structures used, optimizations if any}
+- {Brief explanation of your own approach in 2–4 points}
+- {Key technique, optimization used}
+- {Short explanation how your solution works}
 
 ---
 
 ## 🧩 Code
-python
-Copy
-Edit
+```python```
 {your code here}
-yaml
-Copy
-Edit
 
 ---
+
 
 ## ⏳ Time and Space Complexity
 - **Time Complexity:** O(?)
 - **Space Complexity:** O(?)
 
----
-
 ## 🔀 Alternate Approach 1
-- {Short 1-2 line description of alternate method}
-- {How it differs or when it's better}
+- {Short 1–2 line description of alternate approach.}
 
-### Code
-python
-Copy
-Edit
-{alternate code here}
-yaml
-Copy
-Edit
-- **Time Complexity:** O(?)
-- **Space Complexity:** O(?)
-
+- {How it differs or why it might be better/worse.}
 ---
+## Code
+```python```
+{python code here}
 
-## 🔀 Alternate Approach 2 (Optional)
-- {Short 1-2 line description of another alternate method}
-
-### Code
-python
-Copy
-Edit
-{another alternate code here}
-markdown
-Copy
-Edit
+## ⏳ Time and Space Complexity
 - **Time Complexity:** O(?)
 - **Space Complexity:** O(?)
+
+## 🔀 Alternate Approach 2
+- {Short 1–2 line description of alternate approach.}
+
+- {How it differs or why it might be better/worse.}
+---
+## Code
+```python```
+{python code here}
+
+## ⏳ Time and Space Complexity
+- **Time Complexity:** O(?)
+- **Space Complexity:** O(?)
+---

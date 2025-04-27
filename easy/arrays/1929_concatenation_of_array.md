@@ -14,12 +14,12 @@
 ---
 
 ## 🧩 Code
-\`\`\`python
+```python
 class Solution:
     def getConcatenation(self, nums: List[int]) -> List[int]:
         ans = 2 * nums
         return ans
-\`\`\`
+```
 
 ---
 
@@ -33,7 +33,7 @@ class Solution:
 - Manually append elements into a new list twice.
 
 ### Code
-\`\`\`python
+```python
 class Solution:
     def getConcatenation(self, nums: List[int]) -> List[int]:
         ans = []
@@ -41,7 +41,7 @@ class Solution:
             for num in nums:
                 ans.append(num)
         return ans
-\`\`\`
+```
 - **Time Complexity:** O(n)
 - **Space Complexity:** O(n)
 
@@ -51,10 +51,10 @@ class Solution:
 - Use list addition: `nums + nums`
 
 ### Code
-\`\`\`python
+```python
 class Solution:
     def getConcatenation(self, nums: List[int]) -> List[int]:
         return nums + nums
-\`\`\`
+```
 - **Time Complexity:** O(n)
 - **Space Complexity:** O(n)
